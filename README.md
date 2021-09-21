@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi! I'm Karen <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/>
 
-<!--
-**Nakaharen/Nakaharen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💻 I’m currently working on Bueno Networks
 
-Here are some ideas to get you started:
+- 📖 I’m currently learning PHP and MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything. I'm glad to help. 
+
+---
+
+### How to reach me: 
+
+[<img src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" width="24"/>](https://linkedin.com/in/karen-nakahara)
