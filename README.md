@@ -2,7 +2,7 @@
 
 - 👩‍💻 I’m currently working on WebroPay
 
-- 📖 I’m currently learning PHP and MySQL
+- 📖 I’m currently learning Javascript and React
 
 - 💬 Ask me about anything. I'm glad to help. 
 
